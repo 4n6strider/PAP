@@ -9,5 +9,6 @@ TO DO:
 - [ ] Passive scanner;
 - [ ] Active scanner (not sure);
 - [ ] Spider;
+- [ ] Gui support (QT);
 
 **_KEEP CALM AND DOWNLOAD PAP! (when ready)_**
